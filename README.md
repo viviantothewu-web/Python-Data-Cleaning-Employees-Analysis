@@ -1,6 +1,6 @@
-# Employee Data Analysis & Cleaning
+# Python-Data-Cleaning-Employees-Analysis
 
-This project demonstrates advanced data manipulation techniques using the Pandas library to clean and analyze a corporate employee dataset.
+"Advanced Pandas operations: Data cleaning, dummy matrices, binning, and hierarchical indexing on employee data."
 
 ## 🛠️ Data Engineering Techniques
 * **Handling Missing Data:** Identified and isolated null values using `noNaN_df`.
