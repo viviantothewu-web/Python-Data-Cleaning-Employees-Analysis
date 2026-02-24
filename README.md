@@ -1,6 +1,3 @@
-# Python-Data-Analysis-NumPy-Pandas
-"NumPy and Pandas foundations: Boolean indexing, Series manipulation, and DataFrame operations."
-
 # Employee Data Analysis & Cleaning
 
 This project demonstrates advanced data manipulation techniques using the Pandas library to clean and analyze a corporate employee dataset.
